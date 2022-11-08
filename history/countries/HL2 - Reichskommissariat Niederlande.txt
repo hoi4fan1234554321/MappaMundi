@@ -1,7 +1,5 @@
 ﻿capital = 7
 
-oob = "HL2_1936"
-
 set_popularities = {
 	national_socialism = 100
 }
@@ -14,11 +12,11 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Leider Ernst Herman van Rappard"
+	name = "To Be Added"
 	desc = ""
-	picture = "HOL_Rappart.tga"
+	picture = "gfx/leaders/To_be_added.dds"
 	expire = "1965.1.1"
-	ideology = natsoc
+	ideology = national_socialism
 	traits = {
 	}
 }
@@ -34,7 +32,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "To Be Added"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "gfx/leaders/To_be_added.dds"
 	expire = "1965.1.1"
 	ideology = absolutism
 	traits = {
@@ -43,16 +41,16 @@ create_country_leader = {
 create_country_leader = {
 	name = "To Be Added"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "gfx/leaders/To_be_added.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
 	}
 }
 create_country_leader = {
-	name = "Hauptsturmführer Johannes Hendrik Feldmeijer"
+	name = "To Be Added"
 	desc = ""
-	picture = "HL2_Feldmeijer.tga"
+	picture = "gfx/leaders/To_be_added.dds"
 	expire = "1965.1.1"
 	ideology = fascism_ideology
 	traits = {
@@ -61,7 +59,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "To Be Added"
 	desc = ""
-	picture = "To_be_added.dds"
+	picture = "gfx/leaders/To_be_added.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
